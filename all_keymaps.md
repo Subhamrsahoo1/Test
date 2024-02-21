@@ -16,4 +16,14 @@
 * leader + ty -- Run last test 
 * leader + tl -- debug last test
 * leader + tw -- Run watch
+---
+* leader + sv -- split vertical
+* leader + sh -- split horizontal
+* leader + sx -- close split window
+* leader + sm -- minimize windows
+---
+* leader + to -- tabs open
+* leader + tp -- pervious tabs
+* leader + tn -- next tabs
+* leader + tx -- close tabs
 
